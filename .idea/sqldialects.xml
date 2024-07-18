@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task1_select.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task2_distinct.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task3_where.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task4_between.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task5_in.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/src/test/resources/queries/day01/task6_order_by.sql" dialect="Oracle" />
+  </component>
+</project>
